@@ -10,7 +10,9 @@ train.csv: vowel samples for training the network. See [2] for description
 test.csv: vowel samples for testing trained network. See [2] for description
 
 
-References: 
+References:
+
+
 [1]Shen, Y., Harris, N., Skirlo, S. et al. Deep learning with coherent nanophotonic circuits. Nature Photon 11, 441–446 (2017). https://doi.org/10.1038/nphoton.2017.93
 
 [2]Deterding Dataset https://archive.ics.uci.edu/ml/datasets/Connectionist+Bench+(Vowel+Recognition+-+Deterding+Data)
