@@ -2,9 +2,12 @@ Simulation of the Nanophotonic Network in paper "Deep learning with coherent nan
 
 Vowel Classification dataset provided by [2]
 
-ONN.py --------- Implementation of the nonlinear saturable absorber activation function with backpropgation algorithm according to the steps in the supplementary information of [1]
+ONN.py: Implementation of the nonlinear saturable absorber activation function with backpropgation algorithm according to the steps in the supplementary information of [1]
 
-deterding_pytorch.py --------- Implementation of a similar network in Pytorch with ReLU() acitivation function for comparison purposes.
+deterding_pytorch.py: Implementation of a similar network in Pytorch with ReLU() acitivation function for comparison purposes.
+
+train.csv: vowel samples for training the network. See [2] for description
+test.csv: vowel samples for testing trained network. See [2] for description
 
 
 References: 
